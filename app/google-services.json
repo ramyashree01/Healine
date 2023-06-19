@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "749857536865",
+    "project_id": "diet-app-55de9",
+    "storage_bucket": "diet-app-55de9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749857536865:android:20d9f1a7b5bda833c52320",
+        "android_client_info": {
+          "package_name": "com.master.healine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749857536865-1qv29835qo84hg9lhgmp8d46gdsi9pf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC93o9lWDeEr4o_B8PsHJc1-7f9-QQkQ5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749857536865-1qv29835qo84hg9lhgmp8d46gdsi9pf3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

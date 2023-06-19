@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/recipe" android:title="Recipe" android:icon="@drawable/recipe"/>
+
+    <item android:id="@+id/game" android:title="Game" android:icon="@drawable/game"/>
+    <item android:id="@+id/nutritionist" android:title="Nutritionist" android:icon="@drawable/nutritionist"/>
+    <item android:id="@+id/scanner" android:title="Scanner" android:icon="@drawable/scanner"/>
+    <item android:id="@+id/foodDetect" android:title="Food Detect" android:icon="@drawable/fdetect"/>
+</menu>
